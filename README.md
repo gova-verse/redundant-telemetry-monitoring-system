@@ -219,7 +219,8 @@ Sensitive infrastructure details such as **network addresses, ports, and interna
 
 **Govarthan S**
 
-LinkedIn: (Add your LinkedIn profile link)  
-GitHub: (Add your GitHub profile link)
+LinkedIn: www.linkedin.com/in/govarthan-s-7b7a623b5
+ 
+GitHub: (https://github.com/gova-verse)
 
 ⭐ If you found this project useful, consider giving the repository a star.
