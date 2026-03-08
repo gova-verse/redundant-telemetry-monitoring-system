@@ -194,6 +194,20 @@ Possible future enhancements:
 - GPU acceleration for high-frequency telemetry environments
 
 ---
+📊 System Operation Screenshots
+🔹 AUTO MODE – Before Switching
+
+The monitoring system is operating in automatic mode while receiving telemetry data from the currently active server.
+At this stage both servers are monitored, but no failover condition has occurred.
+
+🔹 AUTO MODE – After Switching
+
+When the active server stops transmitting telemetry packets, the system automatically detects the failure using the heartbeat timeout mechanism and switches to the redundant server.
+
+🔹 MANUAL MODE – Before Switching
+
+In manual mode, the operator has control over server selection.
+The monitoring system continues plotting telemetry data from the currently selected server until a manual switch command is issued.
 
 # ⚠ Security Note
 
